@@ -10,3 +10,8 @@ test('renders input with placeholder', () => {
   render(<App />);
   screen.getByPlaceholderText(/Search.../i);
 });
+
+test('renders button with glass', () => {
+  render(<App />);
+  screen.getByTitle('search-icon');
+});
