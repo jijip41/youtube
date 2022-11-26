@@ -3,6 +3,10 @@ import App from './App';
 
 test('renders learn react link', () => {
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+  screen.getByText(/Youtube/i);
+});
+
+test('renders input with place holder', () => {
+  render(<App />);
+  screen.getAllByText(/Search.../i);
 });

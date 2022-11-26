@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="">Youtube</header>
+      <input placeholder="Search..."></input>
     </div>
   );
 }
