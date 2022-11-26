@@ -6,7 +6,7 @@ test('renders learn react link', () => {
   screen.getByText(/Youtube/i);
 });
 
-test('renders input with place holder', () => {
+test('renders input with placeholder', () => {
   render(<App />);
-  screen.getAllByText(/Search.../i);
+  screen.getByPlaceholderText(/Search.../i);
 });
