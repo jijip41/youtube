@@ -1,14 +1,12 @@
+import { Outlet } from 'react-router-dom';
 import './App.css';
-import { MagnifyingGlass } from 'phosphor-react';
+import { Header } from './components/Header';
 
 function App() {
   return (
     <div className="App">
-      <header className="">Youtube</header>
-      <input placeholder="Search..."></input>
-      <button>
-        <MagnifyingGlass title="search-icon" />
-      </button>
+      <Header />
+      <Outlet />
     </div>
   );
 }
