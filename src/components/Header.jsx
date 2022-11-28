@@ -5,7 +5,7 @@ import { Link, useNavigate, useParams } from 'react-router-dom';
 export function Header({ onClick }) {
   const { keyword } = useParams();
   const navigate = useNavigate();
-  const [text, setText] = useState();
+  const [text, setText] = useState('');
 
   const handleSubmit = (e) => {
     e.preventDefault();
