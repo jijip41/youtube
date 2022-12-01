@@ -2,6 +2,7 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 import VideoCard from '../components/VideoCard';
+import axios from 'axios';
 
 export default function Videos() {
   const { keyword } = useParams();
@@ -10,9 +11,10 @@ export default function Videos() {
     error,
     data: videos,
   } = useQuery(['videos', keyword], async () => {
-    return fetch(`/data/${keyword ? 'search' : 'pop'}.json`)
-      .then((res) => res.json())
-      .then((data) => data.items);
+    return axios.get(`/data/${keyword ? 'search' : 'pop'}.json`).then((res) => {
+      console.log(res);
+      return res.data.items;
+    });
   });
 
   console.log(videos);
