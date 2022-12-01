@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
-import VideoDetail from './components/VideoDetail';
-import Videos from './components/Videos';
+import VideoDetail from './pages/VideoDetail';
+import Videos from './pages/Videos';
 import NotFound from './pages/NotFound';
 import App from './App';
 
