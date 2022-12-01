@@ -11,13 +11,10 @@ export default function Videos() {
     error,
     data: videos,
   } = useQuery(['videos', keyword], async () => {
-    return axios.get(`/data/${keyword ? 'search' : 'pop'}.json`).then((res) => {
-      console.log(res);
-      return res.data.items;
-    });
+    return axios
+      .get(`/data/${keyword ? 'search' : 'pop'}.json`)
+      .then((res) => res.data.items);
   });
-
-  console.log(videos);
 
   return (
     <>
@@ -25,7 +22,7 @@ export default function Videos() {
       {isLoading && <p>Loading...</p>}
       {error && <p>Something is wrong 😖</p>}
       {videos && (
-        <ul>
+        <ul className="grid grid-cols-4 gap-4 text-sm">
           {videos.map((video) => (
             <VideoCard key={video.id} video={video} />
           ))}
