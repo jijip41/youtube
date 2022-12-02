@@ -2,7 +2,7 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 import VideoCard from '../components/VideoCard';
-import axios from 'axios';
+import { MockYoutube } from '../apis/MockYoutube';
 
 export default function Videos() {
   const { keyword } = useParams();
@@ -10,10 +10,9 @@ export default function Videos() {
     isLoading,
     error,
     data: videos,
-  } = useQuery(['videos', keyword], async () => {
-    return axios
-      .get(`/data/${keyword ? 'search' : 'pop'}.json`)
-      .then((res) => res.data.items);
+  } = useQuery(['videos', keyword], () => {
+    const youtube = new MockYoutube();
+    return youtube.search(keyword);
   });
 
   return (
