@@ -37,7 +37,12 @@ export class Youtube {
   async #searchByPopular() {
     return this.apiClient
       .videos({
-        params: { part: 'snippet', maxResults: 25, chart: 'mostPopular' },
+        params: {
+          part: 'snippet',
+          maxResults: 25,
+          chart: 'mostPopular',
+          regionCode: 'GB',
+        },
       })
       .then((res) => res.data.items);
   }
