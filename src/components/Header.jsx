@@ -15,7 +15,7 @@ export function Header({ onClick }) {
   useEffect(() => setText(keyword || ''), [keyword]);
 
   return (
-    <header className="flex w-full m-4">
+    <header className="flex w-[90%] m-8">
       <Link to="/">
         <div className="flex items-center gap-2">
           <YoutubeLogo className=" text-brand text-4xl" />
@@ -33,7 +33,7 @@ export function Header({ onClick }) {
           onChange={(e) => setText(e.target.value)}
           className="outline-none bg-black text-gray-50 w-7/12 p-2 "
         ></input>
-        <button className="bg-zinc-400 w-8 h-8 flex justify-center items-center hover:bg-zinc-500">
+        <button className="bg-zinc-400 w-8 h-8 flex justify-center items-center hover:bg-zinc-500 rounded-md">
           <MagnifyingGlass title="search-icon" />
         </button>
       </form>
