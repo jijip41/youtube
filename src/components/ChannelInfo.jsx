@@ -4,14 +4,16 @@ import { useYoutubeApi } from '../context/YoutubeApiContext';
 
 export default function ChannelInfo({ id, name }) {
   const { youtube } = useYoutubeApi();
-  const { data: url } = useQuery(['channel', id], () => {
-    return youtube.getChannelImgUrl(id);
-  });
+  const { data: url } = useQuery(
+    ['channel', id],
+    () => youtube.getChannelImgUrl(id),
+    { staleTime: 1000 * 60 * 10 }
+  );
 
   return (
-    <div>
-      {url && <img src={url} alt={name} />}
-      <p>{name}</p>
+    <div className="flex items-center gap-x-4">
+      {url && <img src={url} alt={name} className="w-10 h-10 rounded-full" />}
+      <p className="font-semibold">{name}</p>
     </div>
   );
 }

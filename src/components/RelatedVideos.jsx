@@ -6,28 +6,21 @@ import VideoCard from './VideoCard';
 export default function RelatedVideos({ id }) {
   const { youtube } = useYoutubeApi();
 
-  const {
-    isLoading,
-    error,
-    data: videos,
-  } = useQuery(['related', id], () => {
-    return youtube.searchRelatedVideoListByVideoId(id);
-  });
-
-  console.log(videos);
+  const { data: videos } = useQuery(
+    ['related', id],
+    () => youtube.searchRelatedVideoListByVideoId(id),
+    { staleTime: 1000 * 60 * 10 }
+  );
 
   return (
-    <div>
-      <p>related</p>
-      {isLoading && <p>Loading...</p>}
-      {error && <p>Something went wrong...</p>}
+    <>
       {videos && (
-        <ul className="">
+        <ul className="flex flex-col gap-4">
           {videos.map((video) => (
-            <VideoCard video={video} key={video.id} />
+            <VideoCard video={video} key={video.id} type="list" />
           ))}
         </ul>
       )}
-    </div>
+    </>
   );
 }
