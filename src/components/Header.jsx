@@ -15,11 +15,11 @@ export function Header({ onClick }) {
   useEffect(() => setText(keyword || ''), [keyword]);
 
   return (
-    <header className="flex w-[90%] m-8">
+    <header className="flex w-[90%] m-8 p-4 border-b-2 border-zinc-700">
       <Link to="/">
         <div className="flex items-center gap-2">
           <YoutubeLogo className=" text-brand text-4xl" />
-          <h1 className="text-3xl">Youtube</h1>
+          <h1 className="text-3xl font-extrabold">Youtube</h1>
         </div>
       </Link>
       <form
