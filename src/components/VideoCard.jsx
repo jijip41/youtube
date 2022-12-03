@@ -9,7 +9,7 @@ export default function VideoCard({ video }) {
       className="flex flex-col justify-evenly  rounded-md overflow-hidden bg-zinc-800 hover:bg-zinc-700 hover:scale-140 p-2 hover:scale-110 transition duration-250 ease-out hover:ease-in"
       key={video.id}
       onClick={() => {
-        navigate(`/videos/watch/${video.id}`);
+        navigate(`/videos/watch/${video.id}`, { state: { video } });
       }}
     >
       <img
