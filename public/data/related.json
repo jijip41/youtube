@@ -1,0 +1,408 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "4HX8vE3jfmBofULhoeXX7PyTmxA",
+  "nextPageToken": "CAoQAA",
+  "regionCode": "GB",
+  "pageInfo": {
+    "totalResults": 188,
+    "resultsPerPage": 10
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lxrNOvOv9_ojJwiBr5F0sGP5ZVk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qH75z73s_uM"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-09T13:35:25Z",
+        "channelId": "UCK8S6QMrTk1G8TYQwIyDo-w",
+        "title": "B T S PLAYLIST 2022 UPDATED",
+        "description": "b t s playlist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qH75z73s_uM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qH75z73s_uM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qH75z73s_uM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qH75z73s_uM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qH75z73s_uM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LQ KPOP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-09T13:35:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_JrL_917bRKPxnDToEZdTae93fk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DDqEsxIZaNo"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-26T06:50:46Z",
+        "channelId": "UCgqMjKxRWAKUvgYqgomighw",
+        "title": "BTS(방탄소년단) Best Stage Mix🔥 KBS Music Bank 뮤직뱅크 레전드 노래모음",
+        "description": "BTS Stage Compilation #4K Remastered by KBS 충북\n\n00:00 ON\n04:24 Anpanman\n08:25 FAKE LOVE\n12:36 I'm Fine\n16:49 IDOL\n20:46 Black Swan\n24:18 ON\n28:35 I NEED U\n32:12 귀요미 모먼트\n\n#BTS #remastered\nJIN 진 ジン  キム･ソクジン 김석진 金碩珍  جين จิน\nSUGA 슈가 シュガ  ミン・ユンギ 閔玧其 شوقا ชูกา\nJ_HOPE 제이홉 ジェイホープ  チョン･ホソク 鄭號錫 جايهوب เจ-โฮป\nRM 알엠 アールエム  キム・ナムジュン 金南俊 آر إم อาร์เอ็ม\nJIMIN 지민 ジミン  パク・ジミン 朴智旻  بارك جيمين จีมิน\nV 뷔 ヴィ  キム・テヒョン 金泰亨 ڤي วี\nJUNG_KOOK 정국 ジョングク  チョン・ジョングク 田柾國 جونغ كوك จ็องกุก\n\nBTS #ビーティーエス #بي تي أس\n防彈少年團 #ぼうだんしょうねんだん \n#bts #online #concert #kpop #world #compilation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DDqEsxIZaNo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DDqEsxIZaNo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DDqEsxIZaNo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DDqEsxIZaNo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DDqEsxIZaNo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS충북",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-26T06:50:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5EwlzciMyP79A_tAdh9kwjs3csc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XsX3ATc3FbA"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-12T05:03:41Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)' Official MV",
+        "description": "BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)' Official MV\n\n\nCredits:\nDirector : YongSeok Choi (Lumpens)\nAssistant Director : Guzza, Jihye Yoon, HyeJeong Park (Lumpens)\nDirector of Photography : HyunWoo Nam (GDW)\nGaffer : HyunSuk Song (Real lighting)\nArt Director : JinSil Park, BoNa Kim (MU:E)\nAssistant Art Team : YeMin Ahn, lee hyun seoung ,GyuHee Kim (MU:E)\nArt PD : il ho heo\nTechno Crane : Haksong Lee (Service Vision)\nShow Light : SungKeun Ma (A&T light)\n\nVisual Creative : Kim Sung Hyun, Lee Sun Kyoung, Kim Ga Eun, Lee Hye Ri \nChoreography : Son Sungdeuk, Quick Crew \nPerformance Directing: Son Sungdeuk, Lee Byungeun, Lee Doohwan \nArtist Management : Kim Shin Gyu, Kim Se Jin, Kim Dae Young, Kim Su Bin, Bang Min Wook, Lee Jung Min, An Da Sol, Park Jun Tae\n\n\n\nBigHit Entertainment. All rights reserved. \nUnauthorized reproduction is a violation of applicable laws. \nManufactured by BigHit Entertainment, Seoul, Korea.\n\nConnect with BTS:\nhttps://www.bighitcorp.com/\nhttp://twitter.com/BTS_bighit \nhttp://twitter.com/BTS_twt \nhttps://www.facebook.com/ibighit/\nhttp://www.facebook.com/bangtan.official\nhttp://instagram.com/BTS.bighitofficial\nhttp://weibo.com/BTSbighit\n\n\n#BTS #방탄소년단 #작은것들을위한시 #BoyWithLuv #MAP_OF_THE_SOUL_PERSONA #MV #Halsey #할시",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-12T05:03:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G7WbN79lcNhBicI-KdQjCmtRzJw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-5q5mZbe3V8"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-18T15:30:48Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) 'Life Goes On' Official MV",
+        "description": "BTS (방탄소년단) 'Life Goes On' Official MV\n\n\nCredits:\nDirector: Jeon Jung Kook\nAssistant Director: Yong Seok Choi, Jihye Yoon (Lumpens)\n\nPhoto: Nu Kim\n\nDirector of Photography: Hyunwoo Nam (GDW)\nFocus Puller: Sangwoo Yun\n2nd AC: Eunki Kim\n3rd AC: Kyuwon Seo\n\nGaffer: Choi Doo Soo (DS LIGHT)\nLighting Crew: Jung Yu Jin, Kim Jun O, Lee Seong Min, Kim Sung Wook, Lee Hyunsu\n\nArt Director: Bona Kim, Jinsil Park (MU:E)\nAssistant Art Team: Yeri Kang, Minjung Kim (MU:E)\nArt-team Manager: ilho Heo (MU:E)\n\nVisual Creative: Nu Kim, Sabinne Cheon, Lee Sun Kyoung, Kim Ga Eun, Cha Yeon Hwa\nArtist Management: Kim Shin Gyu, Kim Su Bin, Kim Dae Young, Park Jun Tae, An Da Sol, Ahn Jong Hun, Yun Tae Woong, Lee Seung Byeong, Lee Jung Min, Lee Hyeon Ki\n\n\nBig Hit Entertainment. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by Big Hit Entertainment, Seoul, Korea.\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://i.youku.com/btsofficial \nhttp://btsblog.ibighit.com\n\n#BTS #방탄소년단 #LifeGoesOn #BTS_BE #MV",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-5q5mZbe3V8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-5q5mZbe3V8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-5q5mZbe3V8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-5q5mZbe3V8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-5q5mZbe3V8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-18T15:30:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xzL_iiwCaDzMbEtJn_s5NGLgoa0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5dWxvUcEUEY"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-10T22:34:20Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "[PRACTICE RECORD] BTS (방탄소년단) ‘Butter’ (PERFORMANCE REHEARSAL VER) #2022BTSFESTA",
+        "description": "Connect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://i.youku.com/btsofficial \nhttp://btsblog.ibighit.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5dWxvUcEUEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5dWxvUcEUEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5dWxvUcEUEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5dWxvUcEUEY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5dWxvUcEUEY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-10T22:34:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xF5NiNygHMjQuWg_ZNsSvU3zjy4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mPVDGOVjRQ0"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-27T12:07:23Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) 'ON' Official MV",
+        "description": "BTS (방탄소년단) 'ON' Official MV   \n \n\nCredits :\nDirector : YongSeok Choi (Lumpens)\nAssistant Director : Guzza, Jihye Yoon (Lumpens)\nExecutive Producer / Producer: Tiffany Suh\n\nDirector of Photography : Hyunwoo Nam (GDW)\nFocus Puller : Sangwoo Yoon\nB Cam Operator : Eumko\nB Cam Focus Puller : Deokjung Kim\n2nd AC : Eunki Kim\nCamera Crew : Robin Kim, Victor Chon, Ivan Acero, Marco Escobedo, Isue shin\n\nCo-production company : FREENJOY\nExecutive Producer : Nathan Scherrer\nProduction Supervisor : Kristen Loftin\nProduction Coordinator : Dan Engwall\n\nProduction Designer : Emma Fairley\nArt Director : Christian Zollenkpof\nSet Decorator : Cameo Litz\n\n1st AD : Joe Suarez\n2nd AD Liaison : Joseph Kim\nLocation Manager : Laura Dominguez\n\nGaffer : Kyle Bryson\nKey Grip : Wadsworth Peters\n\nDrone : DroneGear Productions\n\nClient Liaison : Ran Ro\nCasting Director : Copelan Cash\n\nDancers : THE LAB\nKey Stylist : Ann-Marie Hoang\nKey Hair : Marina Migliaccio\nKey Makeup : Noel Nichols\n\nVisual effects : Ingenuity Studios\n\nColor : Company 3\nColorist : Charles Bunnag\nSenior Producer : Gabriel Wakeman\nAssociate Producer : Bianca Yi\n \nVisual Creative : Nu Kim, Sabinne Cheon, Lee Sun Kyoung, Kim Ga Eun\nPerformance Directing  : Son Sung Deuk, Lee Ga Hun, Lee Byung Eun\nArtist Management : Kim Shin Gyu, Kim Su Bin, Park Jun Tae, An Da Sol, Ahn Jong Hun, Lee Jung Min\n\nNo Animals Were Harmed in the Making of This Film.\n\nBig Hit Entertainment. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by Big Hit Entertainment, Seoul, Korea.\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official https://www.youtube.com/user/BANGTANTV http://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://app.weverse.io/gpt4o \nhttps://www.weibo.com/BTSbighit \nhttps://www.weibo.com/BTSmembers \nhttp://i.youku.com/btsofficial \nhttp://btsblog.ibighit.com   \n\n#BTS #방탄소년단 #ON #MAP_OF_THE_SOUL_7 #MV",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mPVDGOVjRQ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mPVDGOVjRQ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mPVDGOVjRQ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mPVDGOVjRQ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mPVDGOVjRQ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-27T12:07:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SmWSWdOd2k1K_orl3cf86D0fxQc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ao_CgrYNP44"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-22T13:27:26Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "&TEAM ‘Under the skin’ Official MV (Choreography ver.)",
+        "description": "&TEAM ‘Under the skin’ Official MV (Choreography ver.)\n\nCredits :\nProduction : DIGIPEDI\nDirector : Seong Wonmo\n \nExecutive Producer : Lee Moonyoung\nProducer : Kim Joohun, Yu Yena\nAssistant Director : Jeong Yeona\nProduction Assistant : Jung Yuseok, Park Chanhyuk, Kim Taejoong, Youn Dongwhan, Park Chanyoung, Kim Yongbae\nTranslator : Suzuki Rie, Seo Sangsoo\n \nDirector of Photography : Lee Jinhyuk\nFocus Puller : Hong Kang, Min Sungju\n2nd A.C : Ryu Seunggyu\nDIT : Jeong Gunwoo, Ryu Jaejun\n3rd A.C : Hong Gyungui, Kim Minho\nUnderwater : Seaflex, Fourplaza\nJimmy Jib Operator : Kim Kitae\nTechno Crane : SERVICE VISION KOREA\nPhantom Operator : Choi Sangrin\nFPV Drone : Kim Taewan\nKey Grip : Yun Youngjae, Yu Kanghyun\n \nLighting Director : Jeong Joonghyuk\nLighting Crew : Kim Hyunsuk, Paik Minhyuk, Nam Sangmin, Jeong Hwayong, Kim Sunghyuk, Shin Dongyun, Lee Kyungman, Son Eajin, Jo Joohan\n \nArt Director : Eum Minyoung (BOYYD)\nArt Department Crew : Kim Hyerin, Park Layoung, Park Sohyun\nSet Team : STUDIO MOT, SET VILLAGE\n \nFX : Min Changi\n \nExtra Talent Agency : Clover Agency\nParkour Team : UnderKover\n \nPost Production : DIGIPEDI\nEdit : Seong Wonmo\nDI : Moon Seokho\n2D : DIGIPEDI\n3D VFX : Kim Jiwoon (Breeze Tree)\n\nCreative : Shin Yejin\nVisual Creative : Enokidani Mai, Shikano Hirokazu\nPerformance Directing : Lee Sebastien\nChoreography : Sakura Inoue (HYBE LABELS JAPAN), NOSUKE / hayuru (Team\"S\"), Lookfam, Connecting The Dots, Yano Junko, Sorah Yang, MONA, Sugiura Asuka, Sho-Co\nSound : Soma Genda\nA&R : Lim Hyungju, Ogido Yuyu\nBrand Experience Design : Kato Hiroki\nProduction Support : Ueda Saeko\nArtist Protocol : Ahn Jonghun, Satoh Manabu, Ando Hayato, Shirota Koki, Nagae Yui, Koizumi Yohei, Matsumoto Chihiro, Fujita Moe, Mochizuki Kenta, Satoh Kazuya\n\nDARK MOON: THE GREY CITY with &TEAM\n\nHYBE LABELS JAPAN. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by HYBE LABELS JAPAN, Tokyo, Japan.\n\n#andTEAM #FirstHowling_ME #Under_the_skin\n\nLink with &TEAM\n\nOfficial Website https://www.andteam-official.jp/\nOfficial Weverse https://weverse.io/andteam/feed\nOfficial Twitter https://twitter.com/andTEAMofficial\nMember Twitter https://twitter.com/andTEAM_members\nOfficial YouTube https://www.youtube.com/c/andTEAM_official\nOfficial Instagram https://www.instagram.com/andteam_official/\nOfficial TikTok https://www.tiktok.com/@andteam_official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ao_CgrYNP44/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ao_CgrYNP44/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ao_CgrYNP44/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ao_CgrYNP44/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ao_CgrYNP44/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-22T13:27:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CD-Z8wvca4ZFwSioVoJspM9VSkY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WMweEpGlu_U"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-20T01:09:01Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) 'Butter' Official MV",
+        "description": "BTS (방탄소년단) 'Butter' Official MV \n\n\nCredits: \nDirector: Yong Seok Choi (Lumpens)\n1st AD: Jihye Yoon (Lumpens)\n2nd AD: Ran Ro (Lumpens)\nPA: Soeyoung Park, Minsu Kim\n\nDirector of Photography: Hyunwoo Nam (MOTHER)\nB Camera Operator: Eumko\nFocus Puller: Sangwoo Yun, Youngwoo Lee\n2nd AC: Eunki Kim, Eunil Lee\n3rd AC: Youngseo Park\nDIT: Yuntae Go\nTechno Crane: Service Vision\n\nGaffer: Song Hyunsuk (Real Lighting)\nLighting Crew: Choi Jung Hyun, Hwang Uigyu, Park Gyutae, Park Yeonghwan, Park Cheonil, Lee Harim, Park Nojun, Lee Jaeheung, Lee Seonggyun, Lim Seokgyu\n\nArt Director: Bona Kim, Jinsil Park (MU:E)\nAssistant Art team: Yeri Kang, Jieun Yoon(MU:E)\nArt-team Manager: ilho Heo (MU:E)\n\nShow Light: Sung Kang Jun (Jshow Company)\nMinseok Choi, Minseok Choi, Yebum Bang, Junho Jeong, Jiwoong Han, Yerim Kwon, Haeyoung Kang\n\nProducer: Emma Sungeun Kim (GE PRODUCTION)\nProduction assistant: An Ju Young, Han Ji Hoon\n\nVFX: PLASTIC BEACH\nVFX Supervisor: OHZEON\nVFX Assistant Supervisor: JOJEEM\nVFX Project Manager: Song Chanyoung, Jeong Jieun\nVFX Producer: Jang Kyutae, Ahn Sohyun\n3D Artist: Lee Kwangwon, Kim Doyeon, Lee Jeonghwa, Jeon Jiwon, Kim Hyeji\n2D Artist: Jang Gihoon, Lee Hyunjun, Shin Hyeonsung\nFX Artist: We Jungin\n\nDI: LUCID COLOUR\nColorist: Wonseok Ko\nDI Crew: Dain Kim, Hwa Dong Jeon, Jaeyeon Baek, Somi Na, Seonyoung Lee\nDI Producer: Sooyun Hyun\n\nVisual Creative: Nu Kim, Lee Sun Kyoung, Kang Ju Eun, Kim Ga Eun, Hyo Kim, Cha Yeon Hwa\nPerformance Directing: Son Sung Deuk, Lee Byung Eun, Yoon Seong Eun, Woo Hyunwoo, Hyewon Park\nArtist Management: Jang Jin Gu, Kim Su Bin, An Da Sol, Park Jun Tae, Yun Taewoong, Lee Seung Byung, Lee Jung Min, Lee Hyeon Ki\n\n\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://i.youku.com/btsofficial \nhttp://btsblog.ibighit.com\n\n\n#BTS #방탄소년단 #BTS_Butter #MV",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WMweEpGlu_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WMweEpGlu_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WMweEpGlu_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WMweEpGlu_U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WMweEpGlu_U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-20T01:09:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qGGzS5Ym9R69LIA6gcKayPZewGo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CuklIb9d3fI"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-08T13:30:33Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) 'Permission to Dance' Official MV",
+        "description": "BTS (방탄소년단) 'Permission to Dance' Official MV\n\n\nCredits:\nDirector: Yong Seok Choi (Lumpens) & Woogie Kim (MOTHER)\n\n-SEOUL credits:\n\n1st AD: Jihye Yoon (Lumpens)\n2nd AD: Ran Ro (Lumpens)\nPA: Soeyoung Park, Chanyang Kim\n\nProducer: Emma Sungeun Kim (GE Production)\nProduction manager: Park Jin Sung\nAssistant Production: Seo Min ho, Kim Byeongman, Choi Seung Won, Ahn Joo Young, Kim Areum\n\nDirector of Photography: Hyunwoo Nam (MOTHER)\nFocus Puller: Sangwoo Yun\n2nd AC: Eunki Kim\n3rd AC: Youngseo Park\nDIT: Minjoo You\nB Camera Operator: Eumko\nJimmy Jib: Youngjoong Kim, Hyun In Kim, Sunghoon Kim\nTechno Crane: Service Vision\n\nGaffer: Song Hyunsuk (Real Lighting)\nLighting Crew: Choi Jung Hyun, Hwang Uigyu, Park Gyutae, Park Yeonghwan, Jang Yunseok, Sim Junhyeok, Park Seounghun, Woo Sujin, Kim Yeongjin\n\nProduction Designer: Jinsil Park, Bona Kim(MU:E)\nAssistant Art team: Yeri Kang, Jieun Yoon, A yeong Choi (MU:E)\nJihye An, Jooho Jeong,Taegwan Nam, June Heo, Seonghun Kim, Chaemin Jung, Ryoonha Kim, Suyeon Park\nArt-team Manager: ilho Heo (MU:E)\n\nSet: Yonghwi Cho, Euljung Kim, Hyeokjun Lee(ILL SAN ARTCENTER)\n\nMural Design Collaboration: Abel Macias\n\nDI: LUCID COLOUR\nColorist: Wonseok Ko\nDI Crew: Seonyoung Lee, Minjeong Kim, Hwa Dong Jeon, Jaeyeon Baek, Somi Na, Dain Kim, Sujeong Park\nDI Producer: Sooyun Hyun\n\n-LA credits:\n\nExecutive Producer: Katt Kim (MOTHER)\n\nLA Production Company: Ways & Means\nExecutive Producers: Lana Kim, Jett Steiger\nHead of Production: Lauren Skillen\n         \nDirector of Photography: Andy Kim (MOTHER)\n         \nProducer: Brandon Robinson\nProduction Manager: Nick Andrus\nProduction Coordinator: Brendan Lynch\n         \n1st Assistant Director: Bashir Taylor\n2nd Assistant Director: Carlos Salazar\n         \n1st AC: Misael Audelo\n2nd AC: Genevieve Agar\n         \nVTR: Robbie Johnson\nPlayback: Dylan Silverglate\n         \nKey Grip: Aram Martirosyan\nGaffer: Mike Misslin\nSwing / Driver: Mason Malone\n         \nProduction Designer: Taylor Almodovar\nArt Director: Justin Gardner\nSet Dresser: Hannah Olsen\nArt PA: Corey Boldt\n         \nLocation Manager: Paris Cronin\nSire Rep: Mark Vigil\n         \nCraft Service: Itan Chavira\nStudio Teacher: Saena Yi\n         \nSet PAs: Danny Alvarez, Mollie Lemm, Federica Lomoriello, Lydia Alexander Du Veaux\nOffice PA: Deanna Faour\nTruck PA: Richie Jacobo\n\nSeoul Production Company: MOTHER\n\nSupervising Creative: Doori Kwak\nProducer: Daye Noh\n\nProduction Designer: Ina Hwang\nProduction Design Assistant: Songwoon Kim\n\nLighting Team: Best Boy Lighting\nSeongil Lee, Jiwoo Hong\n\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://i.youku.com/btsofficial \nhttp://btsblog.ibighit.com\n\n\n#BTS #방탄소년단 #PermissiontoDance #BTS_Butter",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CuklIb9d3fI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CuklIb9d3fI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CuklIb9d3fI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CuklIb9d3fI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CuklIb9d3fI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-08T13:30:33Z"
+      }
+    }
+  ]
+}
