@@ -10,7 +10,7 @@ function VideoDetail() {
   const { title, channelId, channelTitle, description } = video.snippet;
 
   return (
-    <section className="flex flex-col lg:flex-row space-x-8 justify-center p-4">
+    <section className="flex flex-col lg:flex-row gap-x-4 gap-y-4 justify-center p-4">
       <article className="flex flex-col space-y-4 basis-4/6">
         <iframe
           id="player"
@@ -27,7 +27,7 @@ function VideoDetail() {
         </div>
         <pre className="text-sm whitespace-pre-wrap px-4">{description}</pre>
       </article>
-      <section className="basis-2/6">
+      <section className="basis-2/6 m-0">
         <RelatedVideos id={video.id} />
       </section>
     </section>
